@@ -425,7 +425,7 @@ footer{
 
 
 @media (max-width: 594px) and
-(min-width: 320px) {
+(min-width: 315px) {
   header{
     background-image: url(images/bg-header-desktop.png);
     height: 45vh;
